@@ -1,0 +1,58 @@
+[
+  {
+    "blog": "David Walsh Blog",
+    "title": "Array.prototype.at",
+    "description": "Working with arrays is an essential skill in any programming language, especially JavaScript, as we continue to rely on external data APIs. JavaScript has added methods like find and `findIndex recently, but one syntax I love from languages like Python is retrieving values by negative indexes.When...",
+    "url": "https://davidwalsh.name/array-prototype-at",
+    "source": "https://davidwalsh.name/"
+  },
+  {
+    "blog": "haker.io",
+    "title": "Apache Spark Interview Questions",
+    "description": "Apache Spark is one of the most popular distributed, general-purpose cluster-computing frameworks. The open-source tool offers an interface for programming an entire computer cluster ...",
+    "url": "https://hackr.io/blog/apache-spark-interview-questions",
+    "source": "https://hackr.io/blog"
+  },
+  {
+    "blog": "haker.io",
+    "title": "10 Best JavaScript Books for Beginners & Advanced Developers",
+    "description": "JavaScript is one of the leading names when it comes to front-end web development. Moreover, it is one of the best programming languages to ...",
+    "url": "https://hackr.io/blog/javascript-books",
+    "source": "https://hackr.io/blog"
+  },
+  {
+    "blog": "NSHipster",
+    "title": "IBAction / IBOutlet / IBOutlet​Collection",
+    "description": "In programming, what often begins as a necessary instruction eventually becomes a vestigial cue for humans. For developers just starting with Cocoa & Cocoa Touch, the IBAction, IBOutlet, and IBOutletCollection macros are particularly bewildering examples of this phenomenon",
+    "url": "https://nshipster.com/ibaction-iboutlet-iboutletcollection/",
+    "source": "https://nshipster.com/"
+  },
+  {
+    "blog": "David Walsh Blog",
+    "title": "Array.prototype.at",
+    "description": "Working with arrays is an essential skill in any programming language, especially JavaScript, as we continue to rely on external data APIs. JavaScript has added methods like find and `findIndex recently, but one syntax I love from languages like Python is retrieving values by negative indexes.When...",
+    "url": "https://davidwalsh.name/array-prototype-at",
+    "source": "https://davidwalsh.name/"
+  },
+  {
+    "blog": "haker.io",
+    "title": "Apache Spark Interview Questions",
+    "description": "Apache Spark is one of the most popular distributed, general-purpose cluster-computing frameworks. The open-source tool offers an interface for programming an entire computer cluster ...",
+    "url": "https://hackr.io/blog/apache-spark-interview-questions",
+    "source": "https://hackr.io/blog"
+  },
+  {
+    "blog": "haker.io",
+    "title": "10 Best JavaScript Books for Beginners & Advanced Developers",
+    "description": "JavaScript is one of the leading names when it comes to front-end web development. Moreover, it is one of the best programming languages to ...",
+    "url": "https://hackr.io/blog/javascript-books",
+    "source": "https://hackr.io/blog"
+  },
+  {
+    "blog": "NSHipster",
+    "title": "IBAction / IBOutlet / IBOutlet​Collection",
+    "description": "In programming, what often begins as a necessary instruction eventually becomes a vestigial cue for humans. For developers just starting with Cocoa & Cocoa Touch, the IBAction, IBOutlet, and IBOutletCollection macros are particularly bewildering examples of this phenomenon",
+    "url": "https://nshipster.com/ibaction-iboutlet-iboutletcollection/",
+    "source": "https://nshipster.com/"
+  }
+]
